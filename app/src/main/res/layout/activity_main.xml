@@ -20,7 +20,7 @@
         android:id="@+id/edit1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="루나틱이 우승할까요?"
+        android:hint="루나틱이 우승"
         />
 
     <Button
